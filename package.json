@@ -1,0 +1,17 @@
+{
+  "name": "buildcircle_search",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Usha",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "selenium": "^2.20.0",
+    "webdriver": "^5.0.0-alpha.7"
+  },
+  "dependencies": {},
+  "description": ""
+}
